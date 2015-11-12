@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="ApagarArquivos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ApagarArquivos"/>
+        <UsageCount Value="21"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="untapagararquivos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormApagarArquivos"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untApagarArquivos"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="60"/>
+        <CursorPos X="1" Y="74"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="154" Column="1" TopLine="141"/>
+      </Position1>
+      <Position2>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="155" Column="1" TopLine="141"/>
+      </Position2>
+      <Position3>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="146" Column="1" TopLine="141"/>
+      </Position3>
+      <Position4>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="154" Column="1" TopLine="141"/>
+      </Position4>
+      <Position5>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="149" Column="32" TopLine="141"/>
+      </Position5>
+      <Position6>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="146" Column="1" TopLine="141"/>
+      </Position6>
+      <Position7>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="159" Column="48" TopLine="141"/>
+      </Position7>
+      <Position8>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="146" Column="1" TopLine="141"/>
+      </Position8>
+      <Position9>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="154" Column="1" TopLine="141"/>
+      </Position9>
+      <Position10>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="152" Column="24" TopLine="141"/>
+      </Position10>
+      <Position11>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="146" Column="1" TopLine="141"/>
+      </Position11>
+      <Position12>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="103" Column="22" TopLine="93"/>
+      </Position12>
+      <Position13>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="151" Column="55" TopLine="135"/>
+      </Position13>
+      <Position14>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="144" Column="1" TopLine="135"/>
+      </Position14>
+      <Position15>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="151" Column="1" TopLine="135"/>
+      </Position15>
+      <Position16>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="152" Column="1" TopLine="135"/>
+      </Position16>
+      <Position17>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="154" Column="1" TopLine="135"/>
+      </Position17>
+      <Position18>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="64" Column="54" TopLine="51"/>
+      </Position18>
+      <Position19>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="67" Column="1" TopLine="51"/>
+      </Position19>
+      <Position20>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="68" Column="1" TopLine="58"/>
+      </Position20>
+      <Position21>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="70" Column="1" TopLine="64"/>
+      </Position21>
+      <Position22>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="69" Column="1" TopLine="64"/>
+      </Position22>
+      <Position23>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="72" Column="1" TopLine="64"/>
+      </Position23>
+      <Position24>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="74" Column="1" TopLine="64"/>
+      </Position24>
+      <Position25>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="76" Column="1" TopLine="64"/>
+      </Position25>
+      <Position26>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="77" Column="1" TopLine="64"/>
+      </Position26>
+      <Position27>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="79" Column="1" TopLine="64"/>
+      </Position27>
+      <Position28>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="83" Column="1" TopLine="64"/>
+      </Position28>
+      <Position29>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="144" Column="23" TopLine="130"/>
+      </Position29>
+      <Position30>
+        <Filename Value="untapagararquivos.pas"/>
+        <Caret Line="72" Column="1" TopLine="60"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
